@@ -1,0 +1,12 @@
+FileShortcut makes it possible from inside an application to refer to a file
+referenced by a Windows shortcut.
+
+
+FileShortcut has been generated with DPO (https://github.com/htalbot/DPOpp)
+
+- Generate projects/solution with dpo.pl
+
+- Build
+
+- To push it into a pool, freeze it with dpo.pl (https://github.com/htalbot/DPOpp)
+

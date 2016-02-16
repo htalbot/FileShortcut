@@ -1,0 +1,5 @@
+project: FileShortcut_dependencies {
+    includes += $(FILESHORTCUT_PRJ_ROOT)/include
+    libpaths += $(FILESHORTCUT_PRJ_ROOT)/lib
+    libs += FileShortcut
+}

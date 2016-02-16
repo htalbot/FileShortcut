@@ -1,0 +1,1 @@
+This file is used for test. A shortcut to this file is in var directory.

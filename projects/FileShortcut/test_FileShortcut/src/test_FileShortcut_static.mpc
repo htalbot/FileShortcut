@@ -1,0 +1,5 @@
+project: test_FileShortcut_ex, test_FileShortcut_fit_static {
+
+    exename = test_FileShortcut_static
+
+}
